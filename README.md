@@ -10,3 +10,6 @@ My track for competitive programming. Currently in hackerrank , soon on Leetcode
 
 ### 3. Functions
 [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) | <a href='/functions.py'> My solution </a>
+
+### 4. Lists
+[Problem](https://www.hackerrank.com/challenges/python-lists/problem) | <a href='/lists.py'> My solution </a>
