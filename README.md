@@ -20,3 +20,6 @@ Please take a moment to read <a href='./CONTRIBUTING.md'> Contribution Guideline
 
 ### 4. Lists
 [Problem](https://www.hackerrank.com/challenges/python-lists/problem) | <a href='/lists.py'> My solution </a>
+
+### 5. Roman to Integer
+[Problem](https://leetcode.com/problems/roman-to-integer/) | <a href='/roman_to_integer.py'> My solution </a>
