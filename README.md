@@ -1,6 +1,9 @@
 # py_competitive
+A place to share your unique solutions of Hackerrank/Leetcode/GFG or competitive programming questions.
 
-My track for competitive programming. Currently in hackerrank , soon on Leetcode.
+## Contribution 
+
+Please take a moment to read <a href='./contributing.md'> Contribution Guidelines </a> to submit your code and solution in smoother way.
 
 ### 1. If-else 
 [Problem](https://www.hackerrank.com/challenges/py-if-else/problem) | <a href='./if_else.py'> My solution </a>
