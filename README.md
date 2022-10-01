@@ -5,6 +5,10 @@ A place to share your unique solutions of Hackerrank/Leetcode/GFG or competitive
 
 Please take a moment to read <a href='./CONTRIBUTING.md'> Contribution Guidelines </a> to submit your code and solution in smoother way.
 
+---
+
+## Questions
+
 ### 1. If-else 
 [Problem](https://www.hackerrank.com/challenges/py-if-else/problem) | <a href='./if_else.py'> My solution </a>
 
