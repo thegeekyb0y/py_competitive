@@ -4,25 +4,25 @@ N = int(input())
 l = []
 
 for i in range(N):
-    command, *number = input().split() 
-    
-    if command == 'insert':
-        l.insert(int(number[0]),int(number[1]))
+    command, *number = input().split()
 
-    elif command == 'print':                       
+    if command == "insert":
+        l.insert(int(number[0]), int(number[1]))
+
+    elif command == "print":
         print(l)
-                 
-    elif command == 'remove':
+
+    elif command == "remove":
         l.remove(int(number[0]))
-               
-    elif command == 'append':
+
+    elif command == "append":
         l.append(int(number[0]))
-           
-    elif command == 'sort':
+
+    elif command == "sort":
         l.sort()
-          
-    elif command == 'pop':
+
+    elif command == "pop":
         l.pop()
 
-    elif command == 'reverse':
+    elif command == "reverse":
         l.reverse()
