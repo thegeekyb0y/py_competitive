@@ -41,3 +41,7 @@ Please take a moment to read <a href='./CONTRIBUTING.md'> Contribution Guideline
 ### 7. Finding Count of a substring in a string
 
 [Problem](https://www.hackerrank.com/challenges/find-a-string/problem) | <a href='/finding_a_substring_in_string.py'> My solution </a>
+
+### 8. Basic List comprehensions
+
+[Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) | <a href='/basic_List_comprehension.py'> My solution </a>
