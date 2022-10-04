@@ -45,3 +45,7 @@ Please take a moment to read <a href='./CONTRIBUTING.md'> Contribution Guideline
 ### 8. Basic List comprehensions
 
 [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) | <a href='/basic_List_comprehension.py'> My solution </a>
+
+### 9. Find Runner-up score
+
+[Problem]https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | <a href='/find_second_largest_number.py'> My solution </a>
