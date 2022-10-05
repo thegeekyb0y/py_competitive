@@ -53,3 +53,7 @@ Please take a moment to read <a href='./CONTRIBUTING.md'> Contribution Guideline
 ### 10. Print the name of Students who scored second lowest marks
 
 [Problem](https://www.hackerrank.com/challenges/nested-list/problem) | <a href="/Print_the_name_of_student_with_second_lowest_grade.py"> My solution </a>
+
+### 11. String Formatting
+
+[Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | <a href="/String_formatting.py"> My solution </a>
