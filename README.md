@@ -57,3 +57,7 @@ Please take a moment to read <a href='./CONTRIBUTING.md'> Contribution Guideline
 ### 11. String Formatting
 
 [Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | <a href="/String_formatting.py"> My solution </a>
+
+### 12. Alphabet Rangoli
+
+[Problem](https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | <a href="/alphabet_rangoli.py"> My solution </a>
